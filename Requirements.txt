@@ -1,0 +1,11 @@
+Python==3.6
+conda==3.7.0
+pandas==0.23.1
+numpy==1.14.5
+spacy==2.0
+sklearn==0.19.1
+matplotlib==2.2.0
+sqlite==3.24.0
+
+
+dataset = https://www.kaggle.com/c/quora-question-pairs/data
